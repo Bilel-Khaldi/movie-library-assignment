@@ -1,0 +1,5 @@
+org\springframework\moviesLibrary\dataStructure\MoviesLibrary.class
+org\springframework\moviesLibrary\configuration\SwaggerConfig.class
+org\springframework\moviesLibrary\controller\MoviesLibraryController.class
+org\springframework\moviesLibrary\MoviesLibraryApplication.class
+org\springframework\moviesLibrary\dataStructure\Movie.class
