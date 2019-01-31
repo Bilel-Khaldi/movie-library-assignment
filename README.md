@@ -5,7 +5,7 @@ To manage data easily, an index field is generated automatically and added for o
 A creation service is available to create and add a new element to existing objects.
 It is possible de view all data or to use an index to search one object.
 There is also another service, based on a key-value search criteria.
-In addition, a delete and update operations are available to mdoify objects list content.
+In addition, a delete and update operations are available to modify objects list content.
 An integrity check is added before every process to control input parameters.
 
 ##Application Testing
